@@ -38,13 +38,14 @@ databricks_event_driven_pipeline/
 
 ## 🖼️ Visuals
 
-Here are some key screenshots from the execution:
+### ✅ Job Execution Screenshot
+![Job Run](./screenshots/job_run.png)
 
-| Screenshot        | Description                       |
-|------------------|-----------------------------------|
-| `job_run.png`     | Job execution in Databricks       |
-| `orders_stage.png`| Data preview in staging table     |
-| `orders_target.png`| Data preview after merge to target|
+### 📊 Staging Table Preview
+![Orders Stage](./screenshots/orders_stage.png)
+
+### 🧾 Target Table Preview
+![Orders Target](./screenshots/orders_target.png)
 
 ---
 
